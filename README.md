@@ -7,9 +7,9 @@ In the colege I've expirience diverses languages and programming paradigms, I li
 
 ### Status  
 <div align="center">
-  <a href="https://github.com/JrChakalo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=JrChakalo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JrChakalo&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/jrchakalo">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=jrchakalo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrchakalo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
