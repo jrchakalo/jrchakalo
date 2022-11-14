@@ -1,7 +1,7 @@
 ## Hey! My name is Júnior 
 
-Hello folks, my name is Jr and I'm from Brazil. I'm currently a Computer Engineering student at CIn, in UFPE and already study in UFPB for a few years.
-In the colege I've expirience diverses languages and programming paradigms, I like a lot POO and Functional. I have some experience with low level languages like Assembly and hardware definition language like VHDL and it's kinda fun play with those.
+Hi guys, my name is Jr and I'm from Brazil. I'm currently a Computer Engineering student at CIn, in UFPE and already study in UFPB for a few years.
+In the colege I've expirience diverses languages and programming paradigms, I like a lot POO but the traditional imperative is the one I have more experience and C is my favorite language of the world! I have some experience with low level languages like Assembly and hardware definition language like VHDL and it's kinda fun play with those.
 
 ##
 
