@@ -1,7 +1,7 @@
 ## Hey! My name is Júnior :)
 
 Hi guys, my name is Jr and I'm from Brazil. I'm currently a Computer Engineering student at CIn, in UFPE and already study in UFPB for a few years.
-In the colege I've expirience diverses languages and programming paradigms, I like a lot POO but the traditional imperative is the one I have more experience and C is my favorite language of the world! I have some experience with low level languages like Assembly and I like a lot hardware definition language like VHDL and Verilog, it's very interesting work with those!
+In the colege I've expirience diverses languages and programming paradigms, I like a lot POO but the traditional imperative is the one I have more experience. I've recently started to study web development with Node.js and React, and I've got to admit that JavaScript and making web applications are very cool. I can't wait to learn even more! 
 
 ##
 
@@ -12,11 +12,14 @@ In the colege I've expirience diverses languages and programming paradigms, I li
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrchakalo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">   
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
-  <img align="center" alt="Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
