@@ -1,7 +1,7 @@
 ## Hey! My name is Júnior :)
 
 Hi guys, my name is Jr and I'm from Brazil. I'm currently a Computer Engineering student at CIn, in UFPE and already study in UFPB for a few years.
-In the colege I've expirience diverses languages and programming paradigms, I like a lot POO but the traditional imperative is the one I have more experience. I've recently started to study web development with Node.js and React, and I've got to admit that JavaScript and making web applications are very cool. I can't wait to learn even more! 
+In the colege I've expirience diverses languages and programming paradigms, but the traditional imperative is the one I have more experience. I've recently started to study web development with Node.js and React, and I've got to admit that JavaScript and making web applications are very cool. I can't wait to learn even more! 
 
 ##
 
