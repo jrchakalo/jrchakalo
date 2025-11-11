@@ -1,7 +1,6 @@
 ## Hey! My name is Júnior :)
 
-Hi guys, my name is Jr and I'm from Brazil. I'm currently a Computer Engineering student at CIn, in UFPE and already study in UFPB for a few years.
-In the colege I've expirience diverses languages and programming paradigms, but the traditional imperative is the one I have more experience. I've recently started to study web development with Node.js and React, and I've got to admit that JavaScript and making web applications are very cool. I can't wait to learn even more! 
+Hi guys, my name is Jr and I'm from Brazil. I'm currently a Computer Engineering student at CIn (UFPE), and I previously studied for a few years at UFPB as well. Throughout college, I've been focusing on web development. I have experience with React, Vue, Node.js, and both frontend and backend development. I really enjoy building applications and exploring how everything connects across the stack. Understanding how different parts of a system communicate to solve real problems is something that motivates me. I’m always learning and excited to keep improving and diving deeper into modern web technologies.
 
 ##
 
